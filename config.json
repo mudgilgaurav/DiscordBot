@@ -1,0 +1,7 @@
+{
+    "prefix": "!",
+    "token": "<DISCORD BOT TOKEN>",
+    "searchkey": "<GOOGLE SEARCH API KEY>",
+    "dbhost": "localhost",
+    "database": "poc"
+}
